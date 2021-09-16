@@ -1,1 +1,1 @@
-# Housing-Price-prediction-machine-learning-model
+# Housing-Price-Linear Regression model
