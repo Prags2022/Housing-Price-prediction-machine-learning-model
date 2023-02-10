@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MODELS/Vehicle_dataset from carsdekho.com
 
 Objective:We all know about the marketing of Carsdekho.com.Company sells mostly the used car.So here our objective is to show the price range dependig on various factors.
