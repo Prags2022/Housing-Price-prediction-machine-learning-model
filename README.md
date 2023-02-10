@@ -1,4 +1,5 @@
-# MODELS/Car_dataset
+# MODELS/Vehicle_dataset from carsdekho.com
+
 Objective:We all know about the marketing of Carsdekho.com.Company sells mostly the used car.So here our objective is to show the price range dependig on various factors.
 To analysis usedcar's price different Machine learning Models have been used to observe which ,algorithm is best and gets least error to the accuracy of model.. Dataset is imported from https://www.kaggle.com/code/dg1223/scaling/data?select=car+data.csv.
 Visualiaztion is done on the featuresv of the model to analyze better.Effor calculating metod are being used to make better perforamance of the predictions.
